@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: c03b445c6341ee34da88642a11d2d011
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5735307526659152310
+    second: Karty-dlya-Fotoshopa-variant-5_0
+  - first:
+      213: 4118800867562471158
+    second: Karty-dlya-Fotoshopa-variant-5_1
+  - first:
+      213: 4458137940483933794
+    second: Karty-dlya-Fotoshopa-variant-5_2
+  - first:
+      213: -4882624673846130779
+    second: Karty-dlya-Fotoshopa-variant-5_3
+  - first:
+      213: -3330743053415349596
+    second: Karty-dlya-Fotoshopa-variant-5_4
+  - first:
+      213: -8310486023880538104
+    second: Karty-dlya-Fotoshopa-variant-5_5
+  - first:
+      213: -3102814401623222198
+    second: Karty-dlya-Fotoshopa-variant-5_6
+  - first:
+      213: -6480828118638529976
+    second: Karty-dlya-Fotoshopa-variant-5_7
+  - first:
+      213: -512615356570219297
+    second: Karty-dlya-Fotoshopa-variant-5_8
+  - first:
+      213: -8711056833734283991
+    second: Karty-dlya-Fotoshopa-variant-5_9
+  - first:
+      213: 9040395283443033781
+    second: Karty-dlya-Fotoshopa-variant-5_10
+  - first:
+      213: -7891374776877351972
+    second: Karty-dlya-Fotoshopa-variant-5_11
+  - first:
+      213: -4560919520526856958
+    second: Karty-dlya-Fotoshopa-variant-5_12
+  - first:
+      213: -8894566274731842858
+    second: Karty-dlya-Fotoshopa-variant-5_13
+  - first:
+      213: 3233874799696228011
+    second: Karty-dlya-Fotoshopa-variant-5_14
+  - first:
+      213: -2091268559410122325
+    second: Karty-dlya-Fotoshopa-variant-5_15
+  - first:
+      213: 2540550391770522381
+    second: Karty-dlya-Fotoshopa-variant-5_16
+  - first:
+      213: 6101048220257350721
+    second: Karty-dlya-Fotoshopa-variant-5_17
+  - first:
+      213: 4532180734383879439
+    second: Karty-dlya-Fotoshopa-variant-5_18
+  - first:
+      213: -4810750585742205503
+    second: Karty-dlya-Fotoshopa-variant-5_19
+  - first:
+      213: -2012260373795389279
+    second: Karty-dlya-Fotoshopa-variant-5_20
+  - first:
+      213: -5780630559637104126
+    second: Karty-dlya-Fotoshopa-variant-5_21
+  - first:
+      213: -8569443972061750946
+    second: Karty-dlya-Fotoshopa-variant-5_22
+  - first:
+      213: 7676939021141864057
+    second: Karty-dlya-Fotoshopa-variant-5_23
+  - first:
+      213: -5750442599182787622
+    second: Karty-dlya-Fotoshopa-variant-5_24
+  - first:
+      213: -122139351318463050
+    second: Karty-dlya-Fotoshopa-variant-5_25
+  - first:
+      213: -1166878920873633073
+    second: Karty-dlya-Fotoshopa-variant-5_26
+  - first:
+      213: 7998551101926740136
+    second: Karty-dlya-Fotoshopa-variant-5_27
+  - first:
+      213: 8712992818601678846
+    second: Karty-dlya-Fotoshopa-variant-5_28
+  - first:
+      213: 4677296215226043454
+    second: Karty-dlya-Fotoshopa-variant-5_29
+  - first:
+      213: 4580129489960827388
+    second: Karty-dlya-Fotoshopa-variant-5_30
+  - first:
+      213: 3344797592210849629
+    second: Karty-dlya-Fotoshopa-variant-5_31
+  - first:
+      213: -5876456968893404494
+    second: Karty-dlya-Fotoshopa-variant-5_32
+  - first:
+      213: 1140701903754713241
+    second: Karty-dlya-Fotoshopa-variant-5_33
+  - first:
+      213: 1421711296315926895
+    second: Karty-dlya-Fotoshopa-variant-5_34
+  - first:
+      213: -7590226660301087733
+    second: Karty-dlya-Fotoshopa-variant-5_35
+  - first:
+      213: -6589076924906206173
+    second: Karty-dlya-Fotoshopa-variant-5_36
+  - first:
+      213: -9043005134652924110
+    second: Karty-dlya-Fotoshopa-variant-5_37
+  - first:
+      213: 7961069719828336147
+    second: Karty-dlya-Fotoshopa-variant-5_38
+  - first:
+      213: 4950670773476163761
+    second: Karty-dlya-Fotoshopa-variant-5_39
+  - first:
+      213: -2948073708750378201
+    second: Karty-dlya-Fotoshopa-variant-5_40
+  - first:
+      213: 4663760624468964221
+    second: Karty-dlya-Fotoshopa-variant-5_41
+  - first:
+      213: 3455419397292122175
+    second: Karty-dlya-Fotoshopa-variant-5_42
+  - first:
+      213: -717408407971135889
+    second: Karty-dlya-Fotoshopa-variant-5_43
+  - first:
+      213: 4931941578633659886
+    second: Karty-dlya-Fotoshopa-variant-5_44
+  - first:
+      213: -5750692318689335321
+    second: Karty-dlya-Fotoshopa-variant-5_45
+  - first:
+      213: -8082691607305592114
+    second: Karty-dlya-Fotoshopa-variant-5_46
+  - first:
+      213: 7306944290302283789
+    second: Karty-dlya-Fotoshopa-variant-5_47
+  - first:
+      213: 5713650127580080765
+    second: Karty-dlya-Fotoshopa-variant-5_48
+  - first:
+      213: 4004023886169709320
+    second: Karty-dlya-Fotoshopa-variant-5_49
+  - first:
+      213: -1770729215362159214
+    second: Karty-dlya-Fotoshopa-variant-5_50
+  - first:
+      213: -1748893790546372300
+    second: Karty-dlya-Fotoshopa-variant-5_51
+  - first:
+      213: 7453094649003306576
+    second: Karty-dlya-Fotoshopa-variant-5_52
+  - first:
+      213: -6315431617178491800
+    second: Karty-dlya-Fotoshopa-variant-5_53
+  - first:
+      213: 2483182431098331976
+    second: Karty-dlya-Fotoshopa-variant-5_54
+  - first:
+      213: -4308829205684035246
+    second: Karty-dlya-Fotoshopa-variant-5_55
+  - first:
+      213: 4263045922345326698
+    second: Karty-dlya-Fotoshopa-variant-5_56
+  - first:
+      213: -2987989391044862059
+    second: Karty-dlya-Fotoshopa-variant-5_57
+  - first:
+      213: -87860646618812518
+    second: Karty-dlya-Fotoshopa-variant-5_58
+  - first:
+      213: 1633410676034964767
+    second: Karty-dlya-Fotoshopa-variant-5_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1441
+        width: 320
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9942cfec7e79f40800000000000000
+      internalID: 5735307526659152310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1441
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb1a3119be82930800000000000000
+      internalID: 4118800867562471158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1441
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668c3e26dc7edd30800000000000000
+      internalID: 4458137940483933794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1441
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a708d77abe6d3cb0800000000000000
+      internalID: -4882624673846130779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_4
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1441
+        width: 324
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2041707d2d6c1d0800000000000000
+      internalID: -3330743053415349596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_5
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1441
+        width: 324
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80880cbfdf83bac80800000000000000
+      internalID: -8310486023880538104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_6
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1441
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48184bbdb690f4d0800000000000000
+      internalID: -3102814401623222198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_7
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1441
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ff2ab9297f06a0800000000000000
+      internalID: -6480828118638529976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_8
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1438
+        width: 325
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc8359c03d2e8f0800000000000000
+      internalID: -512615356570219297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_9
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 1436
+        width: 326
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d670f76fb1c1780800000000000000
+      internalID: -8711056833734283991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_10
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1436
+        width: 326
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62dbabc9fe57d70800000000000000
+      internalID: 9040395283443033781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_11
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1436
+        width: 326
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7fb263743c7290800000000000000
+      internalID: -7891374776877351972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_12
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 1436
+        width: 323
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0ad16cdb54b0c0800000000000000
+      internalID: -4560919520526856958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 320
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2bfb1ff701ec20800000000000000
+      internalID: 3233874799696228011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 962
+        width: 323
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ba6243525af2e0800000000000000
+      internalID: -2091268559410122325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 962
+        width: 323
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d032673fe19d14320800000000000000
+      internalID: 2540550391770522381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 962
+        width: 325
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f7f518074ba450800000000000000
+      internalID: 6101048220257350721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_18
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 962
+        width: 324
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f1da8d5a85ee30800000000000000
+      internalID: 4532180734383879439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_19
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 962
+        width: 324
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd55d9a4d7cc3db0800000000000000
+      internalID: -4810750585742205503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_20
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 962
+        width: 323
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c458f9d30314e0800000000000000
+      internalID: -2012260373795389279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_21
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 962
+        width: 323
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1013122317cfa0800000000000000
+      internalID: -5780630559637104126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_22
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 959
+        width: 325
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5995aa3c18331980800000000000000
+      internalID: -8569443972061750946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_23
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 957
+        width: 325
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eee759d57f98a60800000000000000
+      internalID: 7676939021141864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_24
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 959
+        width: 326
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9f665ce25230b0800000000000000
+      internalID: -5750442599182787622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_25
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 954
+        width: 326
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdf09738e21e4ef0800000000000000
+      internalID: -122139351318463050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_26
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 957
+        width: 323
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9f69cdc96ecfe0800000000000000
+      internalID: -1166878920873633073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_27
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 952
+        width: 324
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0172c59df800f60800000000000000
+      internalID: 7998551101926740136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 320
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7584b1ec4cae870800000000000000
+      internalID: 8712992818601678846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 478
+        width: 323
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc3d9502819e040800000000000000
+      internalID: 4677296215226043454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_30
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 478
+        width: 323
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f76a2183ef8f30800000000000000
+      internalID: 4580129489960827388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 478
+        width: 325
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3f4940bb1b6e20800000000000000
+      internalID: 3344797592210849629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_32
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 478
+        width: 324
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6d378581a27ea0800000000000000
+      internalID: -5876456968893404494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_33
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 478
+        width: 324
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99859e7765694df00800000000000000
+      internalID: 1140701903754713241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_34
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 478
+        width: 323
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69221634eeeab310800000000000000
+      internalID: 1421711296315926895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_35
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 478
+        width: 323
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cdd0431191aa690800000000000000
+      internalID: -7590226660301087733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_36
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 478
+        width: 324
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0e3d7275ee84a0800000000000000
+      internalID: -6589076924906206173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_37
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 478
+        width: 326
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9afeedbac08280800000000000000
+      internalID: -9043005134652924110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_38
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 478
+        width: 326
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8c7a0bb66b7e60800000000000000
+      internalID: 7961069719828336147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_39
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 478
+        width: 326
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b084f4b6d054b440800000000000000
+      internalID: 4950670773476163761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_40
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 478
+        width: 323
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be34ad4965617d0800000000000000
+      internalID: -2948073708750378201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_41
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 478
+        width: 326
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733dea049109b040800000000000000
+      internalID: 4663760624468964221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30679d52ad14ff20800000000000000
+      internalID: 3455419397292122175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e700c9ad04b06f0800000000000000
+      internalID: -717408407971135889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_44
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee540773cb6c17440800000000000000
+      internalID: 4931941578633659886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_45
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e764fbfdcf6130b0800000000000000
+      internalID: -5750692318689335321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_46
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 324
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e48d9ec284df80800000000000000
+      internalID: -8082691607305592114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_47
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0059014e1b776560800000000000000
+      internalID: 7306944290302283789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_48
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa641d486fa4f40800000000000000
+      internalID: 5713650127580080765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_49
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b135f9286219730800000000000000
+      internalID: 4004023886169709320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_50
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 0
+        width: 324
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29daeec092b1d67e0800000000000000
+      internalID: -1770729215362159214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_51
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 326
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d8901d5eaab7e0800000000000000
+      internalID: -1748893790546372300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_52
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 0
+        width: 326
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee4375816be6760800000000000000
+      internalID: 7453094649003306576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_53
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 0
+        width: 326
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642ece97641b58a0800000000000000
+      internalID: -6315431617178491800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_54
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 0
+        width: 323
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436b1eb349067220800000000000000
+      internalID: 2483182431098331976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
